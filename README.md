@@ -8,7 +8,7 @@ I'm a _Java_ | _Spring Boot_ developer, picking around frontend technologies (_H
 
 ###
 
-- **☕ Focused:** Java & Spring Boot
+- **☕ Focused:** Backend development with **Java & Spring Boot**
 - asdasd
 - adasd
 - asdsad
