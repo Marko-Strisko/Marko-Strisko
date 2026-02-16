@@ -1,4 +1,4 @@
-<h2 align="left">Hej 👋 I'm Marko Striško</h1>
+<h1 align="center">Hej 👋 I'm Marko Striško</h1>
 
 ### 💫 About Me
 
