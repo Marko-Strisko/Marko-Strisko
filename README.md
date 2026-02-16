@@ -4,7 +4,7 @@ I'm a _Java_ | _Spring Boot_ developer, picking around frontend technologies (_H
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,htmx,git,docker,grafana,quarkus,postman,idea,apple&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,htmx,git,docker,grafana,prometheus,postman,idea,apple&theme=light" />
   </a>
 </p>
 
