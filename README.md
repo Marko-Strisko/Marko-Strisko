@@ -4,7 +4,7 @@ I'm a _Java_ | _Spring Boot_ developer, picking around frontend technologies (_H
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🎯 My skills</h2>
 
 ###
 
