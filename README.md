@@ -8,7 +8,10 @@ I'm a _Java_ | _Spring Boot_ developer, picking around frontend technologies (_H
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+- Asd
+- asdasd
+- adasd
+- asdsad
 
 ###
 
