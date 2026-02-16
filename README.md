@@ -8,7 +8,7 @@ I'm a _Java_ | _Spring Boot_ developer, picking around frontend technologies (_H
 
 ###
 
-- **☕ Focused:** Backend development with **Java & Spring Boot**
+- **☕ Focused:** Employed as **Java & Spring Boot** software developer
 - **🛡️ Interests:** Security, OAuth2, and Identity Management
 - **🧪 Experimenting:** Frontend simplicity with **HTMX** and **Thymeleaf**
 - **📚 Learning:** Always been interested in **Quarkus** and **Kotlin**
