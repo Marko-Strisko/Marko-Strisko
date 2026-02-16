@@ -2,9 +2,11 @@
 
 I'm a _Java_ | _Spring Boot_ developer, picking around frontend technologies (_HTMX_ 💣), very interested in _Security_, _OAuth2_ and _Identity providers_. While drinking coffee I usually dive into books or watch Spring I/O and Devoxx talks. I've also been playing table tennis for far too many years.
 
-<div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ###
 
