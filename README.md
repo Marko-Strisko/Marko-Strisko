@@ -20,6 +20,11 @@ I'm a _Java_ | _Spring Boot_ developer, picking around frontend technologies (_H
 ###
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/strile)
 
+###
+
+<h2 align="left">💻 My tech stack</h2>
+
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
