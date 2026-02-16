@@ -4,7 +4,7 @@ I'm a _Java_ | _Spring Boot_ developer, picking around frontend technologies (_H
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kubernetes,docker,c,vim&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,docker,apple,vim&theme=light" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@ I'm a _Java_ | _Spring Boot_ developer, picking around frontend technologies (_H
 ###
 
 - **☕ Focused:** Employed as **Java & Spring Boot** software developer
-- **🛡️ Interests:** Security, OAuth2, and Identity Management
+- **🛡️ Interests:** Security, OAuth2, Identity Management, Observability and Open Telemetry
 - **🧪 Experimenting:** Frontend simplicity with **HTMX** and **Thymeleaf**
 - **📚 Learning:** Always been interested in **Quarkus** and **Kotlin**
 
