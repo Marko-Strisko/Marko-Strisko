@@ -9,9 +9,9 @@ I'm a _Java_ | _Spring Boot_ developer, picking around frontend technologies (_H
 ###
 
 - **☕ Focused:** Backend development with **Java & Spring Boot**
-- asdasd
-- adasd
-- asdsad
+- **🛡️ Interests:** Security, OAuth2, and Identity Management
+- **🧪 Experimenting:** Frontend simplicity with **HTMX**.
+- **📚 Learning:** Always been interested in Quarkus and Kotlin
 
 ###
 
