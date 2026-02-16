@@ -1,6 +1,8 @@
 <h1 align="center">Hej 👋 I'm Marko Striško</h1>
 
-### 💫 About Me
+###  
+
+<h2 align="left">💫 About me</h2>
 
 ###
 
