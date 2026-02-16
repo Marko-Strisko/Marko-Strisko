@@ -1,6 +1,6 @@
 <h1 align="center">Hej 👋 I'm Marko Striško</h1>
 
-<p align="left">I'm a _Java_ | _Spring Boot_ developer, picking around frontend technologies (HTMX 💣), very interested in Security, OAuth2 and Identity providers. While drinking coffee I usually dive into books or watch Spring I/O and Devoxx talks. I've also been playing table tennis for far too many years. </p>
+I'm a _Java_ | _Spring Boot_ developer, picking around frontend technologies (HTMX 💣), very interested in Security, OAuth2 and Identity providers. While drinking coffee I usually dive into books or watch Spring I/O and Devoxx talks. I've also been playing table tennis for far too many years.
 
 ###
 
